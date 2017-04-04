@@ -92,7 +92,7 @@ create.time.of.day.plot <- function(trends, selected.trend) {
         # add text
         add.text = TRUE,
         text.labels = selected.trend,
-        text.x = 0.012,
+        text.x = 0.1,
         text.y = 10,
         text.cex = 0.61,
         text.col = 'firebrick'
